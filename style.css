@@ -36,3 +36,9 @@ h5{
 .fa-google-play{
     font-size: 30px;
 }
+.speacial{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px lightblue;
+    height: 330px;
+    
+}
